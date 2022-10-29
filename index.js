@@ -23,11 +23,11 @@ con.on("open", function () {
 });
 
 app.get("/uz", function (req, res) {
-  res.send(uzb);
+  res.status(200).json({uzb});
   console.log("hello");
 });
 app.get("/ru", function (req, res) {
-  res.send(ru);
+  res.status(200).json({ ru });
   console.log("hello");
 });
 
