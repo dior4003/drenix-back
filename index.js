@@ -10,7 +10,7 @@ const app = express();
 mongoose.connect(url, { useNewUrlParser: true, useUnifiedTopology: true });
 const con = mongoose.connection;
 
-const { uzb, ru } = require("./public/main");
+const { uzb, ru } = require("./public/uz");
 // console.log(uzb);
 // middleware
 app.use(express.urlencoded({ extended: true }));

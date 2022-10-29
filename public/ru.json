@@ -1,0 +1,486 @@
+{
+    "header": {
+        "logo": "logo.jpg",
+        "links": [
+            {
+                "id": 0,
+                "title": "Главный",
+                "links": "/",
+                "icon": "bi bi-chevron-down"
+            },
+            {
+                "id": 1,
+                "title": "О нас",
+                "link": "#about",
+                "icon": "bi bi-chevron-down"
+            },
+            {
+                "id": 2,
+                "title": "Страницы",
+                "link": "#pages",
+                "icon": "bi bi-chevron-down"
+            },
+            {
+                "id": 3,
+                "title": "Контакты",
+                "link": "#contact",
+                "icon": "bi bi-chevron-down"
+            }
+        ]
+    },
+    "section1": {
+        "title1": "Команда современных ИТ-специалистов с творческими способностями",
+        "title2": "МЕЧТЫ СБЫВАЮТСЯ С НАМИ!",
+        "title3": "МЫ ПРЕДОСТАВЛЯЕМ РЕАЛЬНЫЕ УРОКИ И УСЛУГИ ДЛЯ ПОДДЕРЖКИ ВАШЕГО УСПЕХА",
+        "button": "УЗНАТЬ БОЛЬШЕ"
+    },
+    "section2": [
+        {
+            "img": "icon@15x.png",
+            "title": "Стандарт",
+            "sub_title": "обычный тип обучения, приемлемый для большинства. При этом занятия внеклассные – 3 дня в неделю по 2 часа"
+        },
+        {
+            "img": "kTfOtgQDzjre.png",
+            "title": "Интенсивный",
+            "sub_title": "для тех, кто хочет быстро добиться результата. В данном виде обучения занятия проходят 6 дней в неделю по 4 часа. Кроме того, вы сможете самостоятельно устанавливать интенсивность уроков и учебных дней"
+        },
+        {
+            "img": "2img@15x.png",
+            "title": "Онлайн",
+            "sub_title": "это форма обучения, которая позволяет учащимся с плотным графиком работы и учебы, которым неудобно посещать занятия, участвовать в наших занятиях и изучать IT в любом месте и в любое время. В этом случае вы сможете выбрать один из желаемых видов обучения – стандартное или интенсивное"
+        },
+        {
+            "img": "4icon@15x.png",
+            "title": "Оффлайн",
+            "sub_title": "эта форма обучения позволяет оставаться с нами в нашей веселой атмосфере, проводить больше времени лицом к лицу с преподавателями и наставниками, а также пройти любой вид обучения - стандартный или интенсивный - в учебном центре Drenix academy"
+        }
+    ],
+    "section3": {
+        "title1": "КТО МЫ?",
+        "title2": "Мы обучаем всех, кто интересуется такими областями, как программирование и дизайн и….",
+        "title3": "Также мы специализируемся на цифровизации бизнеса в различных направлениях и помогаем им в дальнейшем развитии маркетинга.",
+        "derektor": {
+            "name": "Дурбек Рихсибоев",
+            "job": "Главный директор",
+            "company": "Drenix",
+            "img": "derektor.jpg"
+        },
+        "adjus": [
+            {
+                "title": " Новое и современное образование"
+            },
+            {
+                "title": " Работа в авторитетных организациях"
+            },
+            {
+                "title": "Решение бизнес-задач"
+            },
+            {
+                "title": "Гарантия надежного обслуживания"
+            }
+        ]
+    },
+    "section4": {
+        "year": 25,
+        "title1": "Опыт лет",
+        "title2": "Мы предлагаем IT-курсы и услуги, которые гарантируют вам успех",
+        "title3": "Выпускники нашего центра приобретают перечисленные навыки как полноценные специалисты своей профессии",
+        "skills": [
+            {
+                "text": "Frontend",
+                "value": 90
+            },
+            {
+                "text": "Backend",
+                "value": 90
+            },
+            {
+                "text": "Javascript",
+                "value": 90
+            },
+            {
+                "text": "Графический дизайн",
+                "value": 90
+            },
+            {
+                "text": "Веб-дизайн",
+                "value": 90
+            },
+            {
+                "text": "React.js",
+                "value": 90
+            },
+            {
+                "text": "React Native",
+                "value": 90
+            },
+            {
+                "text": "Компьютерная грамотность",
+                "value": 90
+            }
+        ],
+        "courses": [
+            {
+                "text": "Frontend",
+                "img": "x0LELqjTK6FC.jpg"
+            },
+            {
+                "text": "Backend",
+                "img": "2AMRb2Ws4zIY.jpeg"
+            },
+            {
+                "text": "JavaScript",
+                "img": "OfgD7rh4ZvN2.jpeg"
+            },
+            {
+                "text": "Графический дизайн",
+                "img": "x9bZh1JVxPOe.jpeg"
+            }
+        ],
+        "fullSection": [
+            {
+                "value": 10,
+                "icon": "+",
+                "title": "реализованных проектов",
+                "img": "bnLecUweEITo.png"
+            },
+            {
+                "value": 30,
+                "icon": "+",
+                "title": "клиентов",
+                "img": "uQWkoarAw2Ap.png"
+            },
+            {
+                "value": 99,
+                "icon": "%",
+                "title": "анализ сайта",
+                "img": "X2HOAP5USAjF.png"
+            },
+            {
+                "value": 50,
+                "icon": "+",
+                "title": "отзывов клиентов",
+                "img": "RydMvaGPfTrW.png"
+            }
+        ]
+    },
+    "sectoin5": {
+        "title1": "Dars jarayonidan lavhalar",
+        "title2": "Bizda real loyihalarga asoslangan praktikum darslar o'tiladi",
+        "button": "Darslar haqida ko'proq",
+        "corusel": [
+            {
+                "title": "Analytic Solutions",
+                "img": "lavha1.jpg",
+                "btn": "Servises",
+                "decr": "Accelerate innovation with world-class\n                    tech teams We'll match you to an entire remote\n                    team of incredible freelance\n                    talent for all your software development needs.."
+            },
+            {
+                "title": "Product Design",
+                "img": "lavha2.jpg",
+                "btn": "Technology",
+                "decr": "Accelerate innovation with world-class\n                    tech teams We'll match you to an entire remote\n                    team of incredible freelance\n                    talent for all your software development needs.."
+            },
+            {
+                "title": "Aeroland Protocol",
+                "img": "lavha3",
+                "btn": "Cyber Secuti",
+                "decr": "Accelerate innovation with world-class\n                    tech teams We'll match you to an entire remote\n                    team of incredible freelance\n                    talent for all your software development needs.."
+            }
+        ]
+    },
+    "seaction6": {
+        "title1": "ПОЧЕМУ МЫ?",
+        "title2": "МЫ ПРЕДОСТАВЛЯЕМ КАЧЕСТВЕННЫЕ УРОКИ И УСЛУГИ, КОТОРЫЕ ГАРАНТИРУЮТ ВАМ УСПЕХ",
+        "items": [
+            {
+                "title": "Команда экспертов",
+                "decr": "Современные творческие IT-специалисты",
+                "icon": "gRzLx7vhLY9k.png"
+            },
+            {
+                "title": "Контроль качества",
+                "decr": "Гарантируется, что уроки будут проводиться вовремя и на идеальном уровне.",
+                "icon": "faTD9UvvWOUP.png"
+            },
+            {
+                "title": "Интеграция",
+                "decr": "Студенты нашего образовательного центра будут иметь возможность пользоваться услугами наших организаций-партнеров на льготных условиях во время обучения. Например, клиника «Себзор Мед Даво», маркетинговая команда « Drenix Marketing»",
+                "icon": "qVn78YuXyXDo.png"
+            },
+            {
+                "title": "Гарантированное трудоустройство",
+                "decr": "Образовательный центр «Drenix academy» берет на себя ответственность за трудоустройство студентов на предприятия Узбекистана, предоставление им работы в качестве фрилансеров и даже найм их в собственную маркетинговую компанию после прохождения курса.",
+                "icon": "RydMvaGPfTrW.png"
+            }
+        ]
+    },
+    "sectoin7": {
+        "title1": "Наша команда",
+        "title2": "Профессиональный персонал в области ИТ-технологий и технических областей",
+        "team": [
+            {
+                "name": "Дурбек Риксибоев",
+                "spes": "Главный директор",
+                "img": "derektor.jpg",
+                "facebook": {
+                    "link": "#f",
+                    "icon": "fa-brands fa-facebook"
+                },
+                "twitter": {
+                    "link": "",
+                    "icon": "fa-brands fa-twitter"
+                },
+                "youtube": {
+                    "link": "",
+                    "icon": "fa-brands fa-youtube"
+                }
+            },
+            {
+                "name": "Мирали Норкулов",
+                "spes": "",
+                "img": "mirali.jpg",
+                "facebook": {
+                    "link": "#f",
+                    "icon": "fa-brands fa-facebook"
+                },
+                "twitter": {
+                    "link": "",
+                    "icon": "fa-brands fa-twitter"
+                },
+                "youtube": {
+                    "link": "",
+                    "icon": "fa-brands fa-youtube"
+                }
+            },
+            {
+                "name": "Акмаль Юлдашев",
+                "spes": "CEO & Founder",
+                "img": "akmal.jpg",
+                "facebook": {
+                    "link": "#f",
+                    "icon": "fa-brands fa-facebook"
+                },
+                "twitter": {
+                    "link": "",
+                    "icon": "fa-brands fa-twitter"
+                },
+                "youtube": {
+                    "link": "",
+                    "icon": "fa-brands fa-youtube"
+                }
+            },
+            {
+                "name": "Диёрбек Юлдашов",
+                "spes": "Full Stack Dasturchi",
+                "img": "",
+                "facebook": {
+                    "link": "#f",
+                    "icon": "fa-brands fa-facebook"
+                },
+                "twitter": {
+                    "link": "",
+                    "icon": "fa-brands fa-twitter"
+                },
+                "youtube": {
+                    "link": "",
+                    "icon": "fa-brands fa-youtube"
+                }
+            },
+            {
+                "name": "МирзоБабур Обиджонов",
+                "spes": "CEO & Founder",
+                "img": "bobur.jpg",
+                "facebook": {
+                    "link": "#f",
+                    "icon": "fa-brands fa-facebook"
+                },
+                "twitter": {
+                    "link": "",
+                    "icon": "fa-brands fa-twitter"
+                },
+                "youtube": {
+                    "link": "",
+                    "icon": "fa-brands fa-youtube"
+                }
+            }
+        ]
+    },
+    "section8": {
+        "title1": "ПОЧЕМУ МЫ?",
+        "title2": "Более 30+ клиентов довольны нашим сервисом и ИТ-решениями",
+        "corusel": [
+            {
+                "first_title": "Right Agency",
+                "icon": "img1",
+                "title": "I believe in lifelong learning and they are a great place to learn from experts.I have learned a lot and recommend it",
+                "name": "John Dowson",
+                "spec": "Developer"
+            },
+            {
+                "first_title": "Right Agency",
+                "icon": "img2",
+                "title": "I believe in lifelong learning and they are a great place to learn from experts.I have learned a lot and recommend it",
+                "name": "John Dowson",
+                "spec": "Developer"
+            },
+            {
+                "first_title": "Right Agency",
+                "icon": "img3",
+                "title": "I believe in lifelong learning and they are a great place to learn from experts.I have learned a lot and recommend it",
+                "name": "John Dowson",
+                "spec": "Developer"
+            },
+            {
+                "first_title": "Right Agency",
+                "icon": "img1",
+                "title": "I believe in lifelong learning and they are a great place to learn from experts.I have learned a lot and recommend it",
+                "name": "John Dowson",
+                "spec": "Developer"
+            },
+            {
+                "first_title": "Right Agency",
+                "icon": "img2",
+                "title": "I believe in lifelong learning and they are a great place to learn from experts.I have learned a lot and recommend it",
+                "name": "John Dowson",
+                "spec": "Developer"
+            },
+            {
+                "first_title": "Right Agency",
+                "icon": "img3",
+                "title": "I believe in lifelong learning and they are a great place to learn from experts.I have learned a lot and recommend it",
+                "name": "John Dowson",
+                "spec": "Developer"
+            }
+        ]
+    },
+    "section10": {
+        "title1": "Станьте одним из наших счастливых клиентов",
+        "corusel": [
+            {
+                "img": "hamhor1.jpg"
+            },
+            {
+                "img": "hamhor2.jpg"
+            },
+            {
+                "img": "hamhor3.jpg"
+            },
+            {
+                "img": "hamhor4.jpg"
+            },
+            {
+                "img": "hamhor5.jpg"
+            }
+        ],
+        "contact": {
+            "title1": "Быстрый контакт с нами",
+            "phone": "+998999999999",
+            "intName": [
+                "Ваш номер телефона",
+                "Имя пользователя Telegram"
+            ],
+            "label": "Ваш контакт",
+            "place1": "Ф.И.О.",
+            "place2": "Предложения и требования",
+            "btn": "Отправить"
+        }
+    },
+    "footer": {
+        "useLink": [
+            {
+                "logo": {
+                    "url": "logo",
+                    "type": "logo.jpg"
+                },
+                "links": [
+                    {
+                        "icon": "fa-regular fa-phone",
+                        "title": "+91 458 654 528"
+                    },
+                    {
+                        "icon": "fa-regular fa-envelope-open",
+                        "title": "info@example.com"
+                    },
+                    {
+                        "icon": "fa-regular fa-location-dot",
+                        "title": "60 East 65th Street, NY"
+                    }
+                ]
+            },
+            {
+                "logo": {
+                    "url": "Полезные ссылки",
+                    "type": "text"
+                },
+                "links": [
+                    {
+                        "url": "",
+                        "title": "Условия"
+                    },
+                    {
+                        "url": "",
+                        "title": "О компании"
+                    },
+                    {
+                        "url": "",
+                        "title": "Платежный шлюз"
+                    },
+                    {
+                        "url": "",
+                        "title": "Политика конфиденциальности"
+                    }
+                ]
+            },
+            {
+                "logo": {
+                    "url": "Наши услуги",
+                    "type": "text"
+                },
+                "links": [
+                    {
+                        "url": "",
+                        "title": "Безопасность данных"
+                    },
+                    {
+                        "url": "",
+                        "title": "Управление ИТ"
+                    },
+                    {
+                        "url": "",
+                        "title": "SMM курсы"
+                    },
+                    {
+                        "url": "",
+                        "title": "Маркетинговые услуги"
+                    }
+                ]
+            },
+            {
+                "logo": {
+                    "url": "Поддерживать",
+                    "type": "text"
+                },
+                "links": [
+                    {
+                        "url": "",
+                        "title": "Документация"
+                    },
+                    {
+                        "url": "",
+                        "title": "Поддерживать"
+                    },
+                    {
+                        "url": "",
+                        "title": "Часто задаваемые вопросы"
+                    },
+                    {
+                        "url": "",
+                        "title": "Скачать"
+                    }
+                ]
+            }
+        ]
+    }
+}
