@@ -393,7 +393,7 @@ const uzb = {
     useLink: [
       {
         logo: {
-          url: logo,
+          url: "logo",
           type: "logo.jpg",
         },
         links: [
@@ -874,7 +874,7 @@ const ru = {
     useLink: [
       {
         logo: {
-          url: logo,
+          url: "logo",
           type: "logo.jpg",
         },
         links: [
