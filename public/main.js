@@ -4,33 +4,35 @@ const app = express();
 app.use("/static", express.static(path.join(__dirname, "public")));
 
 const uzb = {
-  logo: "logo.jpg",
-  header: [
-    {
-      id: 0,
-      title: "Bosh sahifa",
-      links: "/",
-      icon: "bi bi-chevron-down",
-    },
-    {
-      id: 1,
-      title: "Biz haqimizda",
-      link: "#about",
-      icon: "bi bi-chevron-down",
-    },
-    {
-      id: 2,
-      title: "Sahifalar",
-      link: "#pages",
-      icon: "bi bi-chevron-down",
-    },
-    {
-      id: 3,
-      title: "Biz bilan aloqa",
-      link: "#contact",
-      icon: "bi bi-chevron-down",
-    },
-  ],
+  header: {
+    logo: "logo.jpg",
+    links: [
+      {
+        id: 0,
+        title: "Bosh sahifa",
+        links: "/",
+        icon: "bi bi-chevron-down",
+      },
+      {
+        id: 1,
+        title: "Biz haqimizda",
+        link: "#about",
+        icon: "bi bi-chevron-down",
+      },
+      {
+        id: 2,
+        title: "Sahifalar",
+        link: "#pages",
+        icon: "bi bi-chevron-down",
+      },
+      {
+        id: 3,
+        title: "Biz bilan aloqa",
+        link: "#contact",
+        icon: "bi bi-chevron-down",
+      },
+    ],
+  },
   section1: {
     title1: "Kreativlik qobiliyatiga ega zamonaviy IT mutaxassislar jamoasi",
     title2: "BIZ BILAN ORZULAR RO'YOBGA CHIQADI!",
@@ -967,4 +969,4 @@ const ru = {
     ],
   },
 };
-module.exports = { uzb ,ru };
+module.exports = { uzb, ru };
