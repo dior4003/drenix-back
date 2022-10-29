@@ -1,6 +1,7 @@
 const express = require("express");
 const mongoose = require("mongoose");
 const path = require("path");
+const cors = require("cors");
 
 require("dotenv").config();
 const url = process.env.MongoDB;
@@ -13,6 +14,7 @@ const { uzb, ru } = require("./public/main");
 // console.log(uzb);
 // middleware
 app.use(express.urlencoded({ extended: true }));
+app.use(cors());
 app.use("/static", express.static(path.join(__dirname, "public")));
 
 app.use(express.json());
@@ -23,7 +25,7 @@ con.on("open", function () {
 });
 
 app.get("/uz", function (req, res) {
-  res.status(200).json({uzb});
+  res.status(200).json({ uzb });
   console.log("hello");
 });
 app.get("/ru", function (req, res) {
