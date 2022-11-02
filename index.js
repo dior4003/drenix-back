@@ -7,8 +7,7 @@ require("dotenv").config();
 const url = process.env.MongoDB;
 // const mcqRouter = require('./routers/mcq');
 const app = express();
-mongoose.connect(url, { useNewUrlParser: true, useUnifiedTopology: true });
-const con = mongoose.connection;
+const dbConfig = require("./config/database.config.js");
 
 const uzb = require("./public/uz.json");
 const ru = require("./public/ru.json");
@@ -21,9 +20,18 @@ app.use("/static", express.static(path.join(__dirname, "public")));
 app.use(express.json());
 
 // database connection
-con.on("open", function () {
-  console.log("connected");
-});
+mongoose
+  .connect(dbConfig.url, {
+    useNewUrlParser: true,
+  })
+  .then(() => {
+    console.log("Successfully connected to the database");
+  })
+  .catch((err) => {
+    console.log("Could not connect to the database. Exiting now...", err);
+    process.exit();
+  });
+
 
 app.get("/uz", function (req, res) {
   res.status(200).json({ uzb });
@@ -33,6 +41,13 @@ app.get("/ru", function (req, res) {
   res.status(200).json({ ru });
   console.log("hello");
 });
+app.get("/", (req, res) => {
+  res.json({
+    message:
+      "Welcome to EasyNotes application. Take notes quickly. Organize and keep track of all your notes.",
+  });
+});
+require("./app/routes/note.routes.js")(app);
 
 // start
 app.listen(process.env.PORT, function () {
