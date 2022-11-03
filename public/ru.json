@@ -26,7 +26,9 @@
                 "link": "#contact",
                 "icon": "bi bi-chevron-down"
             }
-        ]
+        ],
+        "phone":"+998900078985"
+
     },
     "section1": {
         "title1": "Команда современных ИТ-специалистов с творческими способностями",
@@ -82,7 +84,7 @@
         ]
     },
     "section4": {
-        "year": 25,
+        "year": 5,
         "title1": "Опыт лет",
         "title2": "Мы предлагаем IT-курсы и услуги, которые гарантируют вам успех",
         "title3": "Выпускники нашего центра приобретают перечисленные навыки как полноценные специалисты своей профессии",
@@ -93,7 +95,7 @@
             },
             {
                 "text": "Backend",
-                "value": 90
+                "value": 85
             },
             {
                 "text": "Javascript",
@@ -109,15 +111,15 @@
             },
             {
                 "text": "React.js",
-                "value": 90
+                "value": 80
             },
             {
                 "text": "React Native",
-                "value": 90
+                "value": 70
             },
             {
                 "text": "Компьютерная грамотность",
-                "value": 90
+                "value": 100
             }
         ],
         "courses": [
@@ -166,27 +168,27 @@
         ]
     },
     "sectoin5": {
-        "title1": "Dars jarayonidan lavhalar",
-        "title2": "Bizda real loyihalarga asoslangan praktikum darslar o'tiladi",
-        "button": "Darslar haqida ko'proq",
+        "title1": "Фотографии из жизни нашего центра",
+        "title2": "У нас есть практические занятия на основе реальных проектов",
+        "button": "",
         "corusel": [
             {
-                "title": "Analytic Solutions",
+                "title": "",
                 "img": "lavha1.jpg",
-                "btn": "Servises",
-                "decr": "Accelerate innovation with world-class\n                    tech teams We'll match you to an entire remote\n                    team of incredible freelance\n                    talent for all your software development needs.."
+                "btn": "",
+                "decr": ""
             },
             {
-                "title": "Product Design",
+                "title": "",
                 "img": "lavha2.jpg",
-                "btn": "Technology",
-                "decr": "Accelerate innovation with world-class\n                    tech teams We'll match you to an entire remote\n                    team of incredible freelance\n                    talent for all your software development needs.."
+                "btn": "",
+                "decr": ""
             },
             {
-                "title": "Aeroland Protocol",
-                "img": "lavha3",
-                "btn": "Cyber Secuti",
-                "decr": "Accelerate innovation with world-class\n                    tech teams We'll match you to an entire remote\n                    team of incredible freelance\n                    talent for all your software development needs.."
+                "title": "",
+                "img": "lavha3.jpg",
+                "btn": "",
+                "decr": ""
             }
         ]
     },
@@ -229,12 +231,12 @@
                     "icon": "fa-brands fa-facebook"
                 },
                 "twitter": {
-                    "link": "",
-                    "icon": "fa-brands fa-twitter"
+                    "link": "https://t.me/bek_dd/",
+                    "icon": "fa-brands fa-telegram"
                 },
                 "youtube": {
-                    "link": "",
-                    "icon": "fa-brands fa-youtube"
+                    "link": "https://instagram.com/rikhsiboevd/",
+                    "icon": "fa-brands fa-instagram"
                 }
             },
             {
@@ -246,12 +248,12 @@
                     "icon": "fa-brands fa-facebook"
                 },
                 "twitter": {
-                    "link": "",
-                    "icon": "fa-brands fa-twitter"
+                    "link": "https://t.me/mirali_mansurovich",
+                    "icon": "fa-brands fa-telegram"
                 },
                 "youtube": {
-                    "link": "",
-                    "icon": "fa-brands fa-youtube"
+                    "link": "https://instagram.com/mirali_mansurovich/",
+                    "icon": "fa-brands fa-instagram"
                 }
             },
             {
@@ -263,29 +265,29 @@
                     "icon": "fa-brands fa-facebook"
                 },
                 "twitter": {
-                    "link": "",
-                    "icon": "fa-brands fa-twitter"
+                    "link": "https://t.me/@akmal_link/",
+                    "icon": "fa-brands fa-telegram"
                 },
                 "youtube": {
-                    "link": "",
-                    "icon": "fa-brands fa-youtube"
+                    "link": "https://instagram.com/_b_0_0_m/",
+                    "icon": "fa-brands fa-instagram"
                 }
             },
             {
                 "name": "Диёрбек Юлдашов",
                 "spes": "Full Stack Dasturchi",
-                "img": "",
+                "img": "diyor.jpg",
                 "facebook": {
-                    "link": "#f",
+                    "link": "https://www.facebook.com/by_diorr",
                     "icon": "fa-brands fa-facebook"
                 },
                 "twitter": {
-                    "link": "",
-                    "icon": "fa-brands fa-twitter"
+                    "link": "https://t.me/by_diorr/",
+                    "icon": "fa-brands fa-telegram"
                 },
                 "youtube": {
-                    "link": "",
-                    "icon": "fa-brands fa-youtube"
+                    "link": "https://instagram.com/by_diorr/",
+                    "icon": "fa-brands fa-instagram"
                 }
             },
             {
@@ -293,16 +295,33 @@
                 "spes": "CEO & Founder",
                 "img": "bobur.jpg",
                 "facebook": {
-                    "link": "#f",
+                    "link": "",
                     "icon": "fa-brands fa-facebook"
                 },
                 "twitter": {
                     "link": "",
-                    "icon": "fa-brands fa-twitter"
+                    "icon": "fa-brands fa-telegram"
                 },
                 "youtube": {
-                    "link": "",
-                    "icon": "fa-brands fa-youtube"
+                    "link": "https://instagram.com/boburobidjonov0",
+                    "icon": "fa-brands fa-instagram"
+                }
+            },
+            {
+                "name": "Фирдавс Шаропов",
+                "spes": "Графический дизайнер",
+                "img": "firdavs.jpg",
+                "facebook": {
+                    "link": "https://www.facebook.com/JamessRobets",
+                    "icon": "fa-brands fa-facebook"
+                },
+                "twitter": {
+                    "link": "https://t.me/warapovv/",
+                    "icon": "fa-brands fa-telegram"
+                },
+                "youtube": {
+                    "link": "https://instagram.com/_mukhammadjonovich_",
+                    "icon": "fa-brands fa-instagram"
                 }
             }
         ]
@@ -312,46 +331,32 @@
         "title2": "Более 30+ клиентов довольны нашим сервисом и ИТ-решениями",
         "corusel": [
             {
-                "first_title": "Right Agency",
-                "icon": "img1",
-                "title": "I believe in lifelong learning and they are a great place to learn from experts.I have learned a lot and recommend it",
-                "name": "John Dowson",
-                "spec": "Developer"
+                "first_title": "Fikrlar",
+                "icon": "feedback5.png",
+                "title": "'Drenix academy' o'quv markazi  faoliyati bilan avvaldan tanishman. Markazni yutuqlari, imkoniyatlari men uchun juda ma'qul bo'lgan edi. Shuning uchun ham men 'Sebzor Med Davo' klinikasining marketingini yuritishda 'Drenix academy' dan yordam so'radim. Markazning ustozlari, mentorlari, marketing guruh xodimlari, shuningdek, bitiruvchilari ham har sohada klinikamiz uchun yordam berganliklari uchun minnatdorchiligimni bildirib qolaman.",
+                "name": "Gulbahor Isahonova ",
+                "spec": "Sebzor Med Davo"
             },
             {
-                "first_title": "Right Agency",
-                "icon": "img2",
-                "title": "I believe in lifelong learning and they are a great place to learn from experts.I have learned a lot and recommend it",
-                "name": "John Dowson",
-                "spec": "Developer"
+                "first_title": "Fikrlar",
+                "icon": "feedback2.png",
+                "title": "'Eco Freight Solution' logistik kompaniya yanayam yaxshi yurishi uchun 'Drenix academy'  juda ham qulay qilib sayt va bot yaratib berishdi. Buning uchun markazga ko'pdan ko'p rahmatimni aytaman.",
+                "name": "Bahromoz Avazxon",
+                "spec": "EFS direktori"
             },
             {
-                "first_title": "Right Agency",
-                "icon": "img3",
-                "title": "I believe in lifelong learning and they are a great place to learn from experts.I have learned a lot and recommend it",
-                "name": "John Dowson",
-                "spec": "Developer"
+                "first_title": "Отзывы",
+                "icon": "feedback6.png",
+                "title": "Хорошая компания с качественным сервисом и достойными товарами. Несколько раз заказывал нестандартные и креативные зеркала и каждый раз удивлялся как они умело и точно воплощают в жизнь то, что я хочу. 10 из 10",
+                "name": "WaffLessDay",
+                "spec": ""
             },
             {
-                "first_title": "Right Agency",
-                "icon": "img1",
-                "title": "I believe in lifelong learning and they are a great place to learn from experts.I have learned a lot and recommend it",
-                "name": "John Dowson",
-                "spec": "Developer"
-            },
-            {
-                "first_title": "Right Agency",
-                "icon": "img2",
-                "title": "I believe in lifelong learning and they are a great place to learn from experts.I have learned a lot and recommend it",
-                "name": "John Dowson",
-                "spec": "Developer"
-            },
-            {
-                "first_title": "Right Agency",
-                "icon": "img3",
-                "title": "I believe in lifelong learning and they are a great place to learn from experts.I have learned a lot and recommend it",
-                "name": "John Dowson",
-                "spec": "Developer"
+                "first_title": "Отзывы",
+                "icon": "feedback3.png",
+                "title": "Будучи примерной домохозяйкой я люблю приготовить вкусненькое. Поэтому мне нужна была хорошая сэндвич-панель. Скажу честно, купила и выбросила в мусор уже 3 штуки. И однажды вечером когда я уже начала расстраиваться мой муж обрадовал меня покупкой новой качественной сэндвич-панели от Pannel city. Пользуемся и наслаждаемся вкусными сэндвичами.",
+                "name": " Pannel city",
+                "spec": ""
             }
         ]
     },
@@ -376,13 +381,13 @@
         ],
         "contact": {
             "title1": "Быстрый контакт с нами",
-            "phone": "+998999999999",
+            "phone": "+998900078985",
             "intName": [
                 "Ваш номер телефона",
                 "Имя пользователя Telegram"
             ],
             "label": "Ваш контакт",
-            "place1": "Ф.И.О.",
+            "place1": "Имя Фамилия",
             "place2": "Предложения и требования",
             "btn": "Отправить"
         }
@@ -397,7 +402,7 @@
                 "links": [
                     {
                         "icon": "fa-regular fa-phone",
-                        "title": "+91 458 654 528"
+                        "title": "+998900078985"
                     },
                     {
                         "icon": "fa-regular fa-envelope-open",
@@ -449,7 +454,7 @@
                     },
                     {
                         "url": "",
-                        "title": "SMM курсы"
+                        "title": "SMM Сервисы"
                     },
                     {
                         "url": "",

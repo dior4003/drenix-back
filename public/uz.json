@@ -1,6 +1,6 @@
 {
     "header": {
-        "logo": "logo.jpg",
+        "logo": "logo.png",
         "links": [
             {
                 "id": 0,
@@ -26,7 +26,8 @@
                 "link": "#contact",
                 "icon": "bi bi-chevron-down"
             }
-        ]
+        ],
+        "phone":"+998900078985"
     },
     "section1": {
         "title1": "Kreativlik qobiliyatiga ega zamonaviy IT mutaxassislar jamoasi",
@@ -48,7 +49,7 @@
         {
             "img": "2img@15x.png",
             "title": "Online",
-            "sub_title": "Tig'iz ish va o'qish garfigiga eg bo'lgan, qatnash noqulay bo'lgan o'quvchilar uchun istalgan vaqtda istalgan joydan turib bizning darslarimizga ishtirok etishlari va IT ni o'rganishlari uchun imkon beradigan ta'lim shakli"
+            "sub_title": "Tig'iz ish va o'qish garfigiga ega bo'lgan, qatnash noqulay bo'lgan o'quvchilar uchun istalgan vaqtda istalgan joydan turib bizning darslarimizga ishtirok etishlari va IT ni o'rganishlari uchun imkon beradigan ta'lim shakli"
         },
         {
             "img": "4icon@15x.png",
@@ -59,7 +60,7 @@
     "section3": {
         "title1": "BIZ KIMMIZ?",
         "title2": "Biz dasturlash va dizaynga qiziqadigan har qanday kishini ushbu sohalar bo'yicha o'qitamiz ",
-        "title3": "Bizning bitiruvchilarimiz o'zlarini ish bilan ta'minlashlariga ko'maklashamiz. Shuningdek, biz turli yo'nalishdagi bizneslarni raqamlashtirishda, marketingni yanada rivojlantirishda yordam berishga ixtisoslashganmiz.",
+        "title3": "Biz bitiruvchilarimizni ish bilan ta'minlashga ko'maklashamiz. Shuningdek, biz turli yo'nalishdagi bizneslarni raqamlashtirishda, marketingni yanada rivojlantirishda yordam berishga ixtisoslashganmiz.",
         "derektor": {
             "name": "Durbek Rixsiboyev",
             "job": "Bosh direktor",
@@ -82,7 +83,7 @@
         ]
     },
     "section4": {
-        "year": 25,
+        "year": 5,
         "title1": "Yillik tajriba",
         "title2": "Biz sizning muvaffaqiyatingizga va'da beradigan IT darslarini va xizmatlarni olib boramiz",
         "title3": "Bizning markaz bitiruvchilari to'laqonli o'z kasbining mutaxassisi sifatida ushbu ko'nikmalarni egallashadi",
@@ -93,7 +94,7 @@
             },
             {
                 "text": "Backend",
-                "value": 90
+                "value": 85
             },
             {
                 "text": "Javascript",
@@ -109,15 +110,15 @@
             },
             {
                 "text": "React.js",
-                "value": 90
+                "value": 80
             },
             {
                 "text": "React Native",
-                "value": 90
+                "value": 70
             },
             {
                 "text": "Kompyuter savodxonligi",
-                "value": 90
+                "value": 100
             }
         ],
         "courses": [
@@ -171,22 +172,22 @@
         "button": "Darslar haqida ko'proq",
         "corusel": [
             {
-                "title": "Analytic Solutions",
+                "title": "",
                 "img": "lavha1.jpg",
-                "btn": "Servises",
-                "decr": "Accelerate innovation with world-class\n                    tech teams We'll match you to an entire remote\n                    team of incredible freelance\n                    talent for all your software development needs.."
+                "btn": "",
+                "decr": ""
             },
             {
-                "title": "Product Design",
+                "title": "",
                 "img": "lavha2.jpg",
-                "btn": "Technology",
-                "decr": "Accelerate innovation with world-class\n                    tech teams We'll match you to an entire remote\n                    team of incredible freelance\n                    talent for all your software development needs.."
+                "btn": "",
+                "decr": ""
             },
             {
-                "title": "Aeroland Protocol",
-                "img": "lavha3",
-                "btn": "Cyber Secuti",
-                "decr": "Accelerate innovation with world-class\n                    tech teams We'll match you to an entire remote\n                    team of incredible freelance\n                    talent for all your software development needs.."
+                "title": "",
+                "img": "lavha3.jpg",
+                "btn": "",
+                "decr": ""
             }
         ]
     },
@@ -206,12 +207,12 @@
             },
             {
                 "title": "Integratsiya",
-                "decr": "Bizning o'quv markazimiz o'quvchilari o'qish vaqti davomida bizning hamkor tashkilotlar xizmatidan imtiyozli tarzda foydalana olish imkoniyatiga ega bo'ladi",
+                "decr": "O'quvchilar o'qish davomida hamkor tashkilotlar xizmatidan imtiyozli foydalana olish imkoniyatiga ega bo'ladi",
                 "icon": "qVn78YuXyXDo.png"
             },
             {
                 "title": "Kafolatli bandlik",
-                "decr": "O'quvchilar ayni bir kursni tamomlaganlaridan keyin ularni O'zbekistondagi korxonalarga ishga joylashtirishga ko'maklashish",
+                "decr": "Bir o'quv kursni tamomlaganlaridan keyin o'quvchilarni O'zbekistondagi korxonalarga ishga joylashtirishga ko'maklashish",
                 "icon": "RydMvaGPfTrW.png"
             }
         ]
@@ -229,46 +230,46 @@
                     "icon": "fa-brands fa-facebook"
                 },
                 "twitter": {
-                    "link": "",
-                    "icon": "fa-brands fa-twitter"
+                    "link": "https://t.me/bek_dd/",
+                    "icon": "fa-brands fa-telegram"
                 },
                 "youtube": {
-                    "link": "",
-                    "icon": "fa-brands fa-youtube"
+                    "link": "https://instagram.com/rikhsiboevd/",
+                    "icon": "fa-brands fa-instagram"
                 }
             },
             {
                 "name": "Mirali Norqulov",
-                "spes": "",
+                "spes": "Menejer",
                 "img": "mirali.jpg",
                 "facebook": {
                     "link": "#f",
                     "icon": "fa-brands fa-facebook"
                 },
                 "twitter": {
-                    "link": "",
-                    "icon": "fa-brands fa-twitter"
+                    "link": "https://t.me/mirali_mansurovich",
+                    "icon": "fa-brands fa-telegram"
                 },
                 "youtube": {
-                    "link": "",
-                    "icon": "fa-brands fa-youtube"
+                    "link": "https://instagram.com/mirali_mansurovich/",
+                    "icon": "fa-brands fa-instagram"
                 }
             },
             {
                 "name": "Akmal Yuldashev",
-                "spes": "CEO & Founder",
+                "spes": "Full Stack Dasturchi",
                 "img": "akmal.jpg",
                 "facebook": {
                     "link": "#f",
                     "icon": "fa-brands fa-facebook"
                 },
                 "twitter": {
-                    "link": "",
-                    "icon": "fa-brands fa-twitter"
+                    "link": "https://t.me/@akmal_link/",
+                    "icon": "fa-brands fa-telegram"
                 },
                 "youtube": {
-                    "link": "",
-                    "icon": "fa-brands fa-youtube"
+                    "link": "https://instagram.com/_b_0_0_m/",
+                    "icon": "fa-brands fa-instagram"
                 }
             },
             {
@@ -276,33 +277,51 @@
                 "spes": "Full Stack Dasturchi",
                 "img": "",
                 "facebook": {
-                    "link": "#f",
+                    "link": "https://www.facebook.com/by_diorr",
                     "icon": "fa-brands fa-facebook"
                 },
                 "twitter": {
-                    "link": "",
-                    "icon": "fa-brands fa-twitter"
+                    "link": "https://t.me/by_diorr/",
+                    "icon": "fa-brands fa-telegram"
                 },
                 "youtube": {
-                    "link": "",
-                    "icon": "fa-brands fa-youtube"
+                    "link": "https://instagram.com/by_diorr/",
+                    "icon": "fa-brands fa-instagram"
                 }
             },
             {
                 "name": "Bobur Obidjonov",
-                "spes": "CEO & Founder",
+                "spes": "Suniy Intelekt Mutaxasisi",
                 "img": "bobur.jpg",
                 "facebook": {
-                    "link": "#f",
+                    "link": "",
                     "icon": "fa-brands fa-facebook"
                 },
                 "twitter": {
                     "link": "",
-                    "icon": "fa-brands fa-twitter"
+                    "icon": "fa-brands fa-telegram"
                 },
                 "youtube": {
-                    "link": "",
-                    "icon": "fa-brands fa-youtube"
+                    "link": "https://instagram.com/boburobidjonov0",
+                    "icon": "fa-brands fa-instagram"
+                }
+            },
+
+            {
+                "name": "Firdavs Sharopov",
+                "spes": "Grafik dizayner",
+                "img": "firdavs.jpg",
+                "facebook": {
+                    "link": "https://www.facebook.com/JamessRobets",
+                    "icon": "fa-brands fa-facebook"
+                },
+                "twitter": {
+                    "link": "https://t.me/warapovv/",
+                    "icon": "fa-brands fa-telegram"
+                },
+                "youtube": {
+                    "link": "https://instagram.com/_mukhammadjonovich_",
+                    "icon": "fa-brands fa-instagram"
                 }
             }
         ]
@@ -312,46 +331,32 @@
         "title2": "30+ ortiq mijozlar bizning xizmatimiz va IT bilan bog'liq yechimimizdan minnatdor",
         "corusel": [
             {
-                "first_title": "Right Agency",
-                "icon": "img1",
-                "title": "I believe in lifelong learning and they are a great place to learn from experts.I have learned a lot and recommend it",
-                "name": "John Dowson",
-                "spec": "Developer"
+                "first_title": "Fikrlar",
+                "icon": "feedback5.png",
+                "title": "'Drenix academy' o'quv markazi  faoliyati bilan avvaldan tanishman. Markazni yutuqlari, imkoniyatlari men uchun juda ma'qul bo'lgan edi. Shuning uchun ham men 'Sebzor Med Davo' klinikasining marketingini yuritishda 'Drenix academy' dan yordam so'radim. Markazning ustozlari, mentorlari, marketing guruh xodimlari, shuningdek, bitiruvchilari ham har sohada klinikamiz uchun yordam berganliklari uchun minnatdorchiligimni bildirib qolaman.",
+                "name": "Gulbahor Isahonova ",
+                "spec": "Sebzor Med Davo"
             },
             {
-                "first_title": "Right Agency",
-                "icon": "img2",
-                "title": "I believe in lifelong learning and they are a great place to learn from experts.I have learned a lot and recommend it",
-                "name": "John Dowson",
-                "spec": "Developer"
+                "first_title": "Fikrlar",
+                "icon": "feedback2.png",
+                "title": "'Eco Freight Solution' logistik kompaniya yanayam yaxshi yurishi uchun 'Drenix academy'  juda ham qulay qilib sayt va bot yaratib berishdi. Buning uchun markazga ko'pdan ko'p rahmatimni aytaman.",
+                "name": "Bahromoz Avazxon",
+                "spec": "EFS direktori"
             },
             {
-                "first_title": "Right Agency",
-                "icon": "img3",
-                "title": "I believe in lifelong learning and they are a great place to learn from experts.I have learned a lot and recommend it",
-                "name": "John Dowson",
-                "spec": "Developer"
+                "first_title": "Отзывы",
+                "icon": "feedback6.png",
+                "title": "Хорошая компания с качественным сервисом и достойными товарами. Несколько раз заказывал нестандартные и креативные зеркала и каждый раз удивлялся как они умело и точно воплощают в жизнь то, что я хочу. 10 из 10",
+                "name": "WaffLessDay",
+                "spec": ""
             },
             {
-                "first_title": "Right Agency",
-                "icon": "img1",
-                "title": "I believe in lifelong learning and they are a great place to learn from experts.I have learned a lot and recommend it",
-                "name": "John Dowson",
-                "spec": "Developer"
-            },
-            {
-                "first_title": "Right Agency",
-                "icon": "img2",
-                "title": "I believe in lifelong learning and they are a great place to learn from experts.I have learned a lot and recommend it",
-                "name": "John Dowson",
-                "spec": "Developer"
-            },
-            {
-                "first_title": "Right Agency",
-                "icon": "img3",
-                "title": "I believe in lifelong learning and they are a great place to learn from experts.I have learned a lot and recommend it",
-                "name": "John Dowson",
-                "spec": "Developer"
+                "first_title": "Отзывы",
+                "icon": "feedback3.png",
+                "title": "Будучи примерной домохозяйкой я люблю приготовить вкусненькое. Поэтому мне нужна была хорошая сэндвич-панель. Скажу честно, купила и выбросила в мусор уже 3 штуки. И однажды вечером когда я уже начала расстраиваться мой муж обрадовал меня покупкой новой качественной сэндвич-панели от Pannel city. Пользуемся и наслаждаемся вкусными сэндвичами.",
+                "name": " Pannel city",
+                "spec": ""
             }
         ]
     },
@@ -376,13 +381,13 @@
         ],
         "contact": {
             "title1": "Biz bilan tezkor aloqa",
-            "phone": "+998999999999",
+            "phone": "+998900078985",
             "intName": [
                 "Telefon raqamingiz",
                 "Telegram foydalanuvchi nomi"
             ],
-            "label": "Sizning kantaktingiz",
-            "place1": "F.I.O",
+            "label": "Sizning kontakt",
+            "place1": "Ism Familiya",
             "place2": "Takliflar va talablar",
             "btn": "Jo'natish"
         }
@@ -391,13 +396,13 @@
         "useLink": [
             {
                 "logo": {
-                    "url": "logo",
-                    "type": "logo.jpg"
+                    "url": "logo.png",
+                    "type": "logo"
                 },
                 "links": [
                     {
                         "icon": "fa-regular fa-phone",
-                        "title": "+91 458 654 528"
+                        "title": "+998900078985"
                     },
                     {
                         "icon": "fa-regular fa-envelope-open",
@@ -449,7 +454,7 @@
                     },
                     {
                         "url": "",
-                        "title": "SMM kurslari"
+                        "title": "SMM xizmati"
                     },
                     {
                         "url": "",
