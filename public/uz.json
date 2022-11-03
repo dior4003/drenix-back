@@ -275,7 +275,7 @@
             {
                 "name": "Diyorbek Yuldashov",
                 "spes": "Full Stack Dasturchi",
-                "img": "",
+                "img": "diyor.jpg",
                 "facebook": {
                     "link": "https://www.facebook.com/by_diorr",
                     "icon": "fa-brands fa-facebook"
@@ -371,9 +371,6 @@
             },
             {
                 "img": "hamkor3.jpg"
-            },
-            {
-                "img": "hamkor4.jpg"
             },
             {
                 "img": "hamkor5.jpg"

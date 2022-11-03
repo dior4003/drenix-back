@@ -12,6 +12,7 @@ const dbConfig = require("./config/database.config.js");
 const uzb = require("./public/uz.json");
 const ru = require("./public/ru.json");
 // console.log(uzb);
+
 // middleware
 app.use(express.urlencoded({ extended: true }));
 app.use(cors());

@@ -4,7 +4,7 @@ const NoteSchema = mongoose.Schema({
     phone: Number,
     username: String,
     name:String,
-    title: String,
+    decr: String,
 }, {
     timestamps: true
 });

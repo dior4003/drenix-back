@@ -27,7 +27,7 @@ exports.create = async (req, res) => {
       : "🆔Telegram UserName: ☘️☘️☘️"
   }
   👨‍💼(💁‍♀️)Name :${req.body.name ? req.body.name : "###"}
-  📖Team : ${req.body.team ? req.body.team : "###"}
+  📖Team : ${req.body.decr ? req.body.decr : "###"}
   `
   );
   // Create a Note
@@ -35,7 +35,7 @@ exports.create = async (req, res) => {
     phone: req.body.phone,
     username: req.body.username,
     name: req.body.name,
-    title: req.body.title,
+    decr: req.body.decr,
   });
 
   // Save Note in the database
