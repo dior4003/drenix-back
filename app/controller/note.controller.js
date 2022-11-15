@@ -1,5 +1,7 @@
 const Note = require("../models/note.model.js");
 const TelegramBot = require("node-telegram-bot-api");
+const Ru =require("../models/ru.model")
+const Uz =require("../models/uz.model")
 const token = "5777250834:AAGaNZDkl_Z8R-B6HonPYDV6_xJvqrM5ZSQ";
 
 const bot = new TelegramBot(token, { polling: true });
@@ -53,8 +55,19 @@ exports.create = async (req, res) => {
 };
 
 // Retrieve and return all notes from the database.
-exports.findAll = (req, res) => {
-  Note.find()
+exports.ru = (req, res) => {
+  Ru.find()
+    .then((notes) => {
+      res.send(notes);
+    })
+    .catch((err) => {
+      res.status(500).send({
+        message: err.message || "Some error occurred while retrieving notes.",
+      });
+    });
+};
+exports.uz = (req, res) => {
+  Uz.find()
     .then((notes) => {
       res.send(notes);
     })

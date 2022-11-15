@@ -34,14 +34,14 @@ mongoose
   });
 
 
-app.get("/uz", function (req, res) {
-  res.status(200).json({ uzb });
-  console.log("hello");
-});
-app.get("/ru", function (req, res) {
-  res.status(200).json({ ru });
-  console.log("hello");
-});
+// app.get("/uz", function (req, res) {
+//   res.status(200).json({ uzb });
+//   console.log("hello");
+// });
+// app.get("/ru", function (req, res) {
+//   res.status(200).json({ ru });
+//   console.log("hello");
+// });
 app.get("/", (req, res) => {
   res.json({
     message:

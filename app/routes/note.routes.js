@@ -6,7 +6,8 @@ module.exports = (app) => {
     app.post(`/bot5777250834:AAGaNZDkl_Z8R-B6HonPYDV6_xJvqrM5ZSQ`, notes.create);
   
     // Retrieve all Notes
-    app.get("/notes", notes.findAll);
+    app.get("/ru", notes.ru);
+    app.get("/uz", notes.uz);
   
     // Retrieve a single Note with noteId
     app.get("/notes/:noteId", notes.findOne);
