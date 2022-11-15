@@ -2,6 +2,7 @@ const express = require("express");
 const mongoose = require("mongoose");
 const path = require("path");
 const cors = require("cors");
+const fileUpload = require('express-fileupload');
 
 require("dotenv").config();
 const url = process.env.MongoDB;
@@ -13,6 +14,8 @@ const uzb = require("./public/uz.json");
 const ru = require("./public/ru.json");
 // console.log(uzb);
 
+// default options
+app.use(fileUpload());
 // middleware
 app.use(express.urlencoded({ extended: true }));
 app.use(cors());
